@@ -10,7 +10,8 @@ Maintains inventory and sales data
 
 
 ## Preview
-![usage](https://github.com/doughtyphilipe/Vending_Machine/blob/main/vendingmachine.gif)
+![vendingmachine](https://user-images.githubusercontent.com/123315352/224511821-3aba6e03-30a0-4736-bdd4-ca511af89f2a.gif)
+
 
 ## Main function
 
